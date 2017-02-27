@@ -2,4 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
-@import "compass/screen.css";
+
+.site-title { color : red !important }
